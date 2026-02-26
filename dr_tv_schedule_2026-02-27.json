@@ -1,0 +1,2120 @@
+{
+  "date": "2026-02-27",
+  "scraped_at": "2026-02-26T06:16:59Z",
+  "total_channels": 9,
+  "total_programs": 349,
+  "schedule": {
+    "DR1": [
+      {
+        "channel_name": "DR1",
+        "title": "Absolution",
+        "start_time": "2026-02-26 23:40",
+        "end_time": "2026-02-27 01:25"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Kommissær George Gently (24)",
+        "start_time": "2026-02-27 01:25",
+        "end_time": "2026-02-27 02:55"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Antikkrejlerne XXIX (1:20)",
+        "start_time": "2026-02-27 03:00",
+        "end_time": "2026-02-27 03:45"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Vinterdrømmen (1:6)",
+        "start_time": "2026-02-27 03:45",
+        "end_time": "2026-02-27 04:10"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Udsendelsesophør",
+        "start_time": "2026-02-27 04:10",
+        "end_time": "2026-02-27 04:40"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Vinterdrømmen (3:6)",
+        "start_time": "2026-02-27 05:25",
+        "end_time": "2026-02-27 06:00"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "TVA",
+        "start_time": "2026-02-27 06:00",
+        "end_time": "2026-02-27 06:10"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Seneste nyt fra TVA",
+        "start_time": "2026-02-27 06:10",
+        "end_time": "2026-02-27 07:31"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "OBS",
+        "start_time": "2026-02-27 07:31",
+        "end_time": "2026-02-27 07:35"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Trumps USA",
+        "start_time": "2026-02-27 07:35",
+        "end_time": "2026-02-27 08:05"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Jorden kalder: Håb over hækken?",
+        "start_time": "2026-02-27 08:05",
+        "end_time": "2026-02-27 08:30"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "P3 Essensen: Forstå USA's angreb på Venezuela",
+        "start_time": "2026-02-27 08:30",
+        "end_time": "2026-02-27 08:50"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Aftenshowet",
+        "start_time": "2026-02-27 08:50",
+        "end_time": "2026-02-27 09:45"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Drømmerenovering: Rumhuset i Atlasbjergene (3:3)",
+        "start_time": "2026-02-27 09:45",
+        "end_time": "2026-02-27 10:15"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Antikkrejlerne XXIX (4:20)",
+        "start_time": "2026-02-27 10:15",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "TVA",
+        "start_time": "2026-02-27 11:00",
+        "end_time": "2026-02-27 11:15"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Bonderøven 2018 (3)",
+        "start_time": "2026-02-27 11:15",
+        "end_time": "2026-02-27 12:00"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Nak & Æd (4:8) - en gnu i Zimbabwe",
+        "start_time": "2026-02-27 12:00",
+        "end_time": "2026-02-27 13:00"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Nak & Æd - Sæl og sauna",
+        "start_time": "2026-02-27 13:00",
+        "end_time": "2026-02-27 13:10"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Hammerslag 2025 - Med naturen som nabo",
+        "start_time": "2026-02-27 13:10",
+        "end_time": "2026-02-27 13:40"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Kender Du Typen? 2021 - Med take-away og telefonpibe",
+        "start_time": "2026-02-27 13:40",
+        "end_time": "2026-02-27 14:10"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Mord med miss Fisher (3)",
+        "start_time": "2026-02-27 14:10",
+        "end_time": "2026-02-27 15:05"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Mord med miss Fisher (4)",
+        "start_time": "2026-02-27 15:05",
+        "end_time": "2026-02-27 16:05"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Jordemoderen II (9:10)",
+        "start_time": "2026-02-27 16:05",
+        "end_time": "2026-02-27 17:00"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Kongeparrets politikerbal, ankomster",
+        "start_time": "2026-02-27 17:00",
+        "end_time": "2026-02-27 17:30"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "TVA",
+        "start_time": "2026-02-27 17:30",
+        "end_time": "2026-02-27 17:45"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Kongeparrets politikerbal",
+        "start_time": "2026-02-27 17:45",
+        "end_time": "2026-02-27 20:00"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "TVA",
+        "start_time": "2026-02-27 20:00",
+        "end_time": "2026-02-27 20:15"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Vores Vejr",
+        "start_time": "2026-02-27 20:15",
+        "end_time": "2026-02-27 20:30"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Thirteen Lives",
+        "start_time": "2026-02-27 20:30",
+        "end_time": "2026-02-27 22:50"
+      },
+      {
+        "channel_name": "DR1",
+        "title": "Lucky Number Slevin",
+        "start_time": "2026-02-27 22:50",
+        "end_time": "2026-02-28 00:35"
+      }
+    ],
+    "DR2": [
+      {
+        "channel_name": "DR2",
+        "title": "Den mest afsidesliggende restaurant i verden",
+        "start_time": "2026-02-26 23:00",
+        "end_time": "2026-02-27 00:30"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Nobelpris-skandalen (4:4)",
+        "start_time": "2026-02-27 00:30",
+        "end_time": "2026-02-27 01:20"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Mit liv som Lasse Hallström (2:2)",
+        "start_time": "2026-02-27 01:20",
+        "end_time": "2026-02-27 02:25"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Ditlev Monrad - genial og gal?",
+        "start_time": "2026-02-27 02:25",
+        "end_time": "2026-02-27 03:10"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Deadline",
+        "start_time": "2026-02-27 03:10",
+        "end_time": "2026-02-27 03:35"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Deadline: Ny amerikansk guldalder?",
+        "start_time": "2026-02-27 03:35",
+        "end_time": "2026-02-27 04:05"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Deadline: Er alle pengene brugt?",
+        "start_time": "2026-02-27 04:05",
+        "end_time": "2026-02-27 04:35"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Grever, godsejere og gullaschbaroner (2:6)",
+        "start_time": "2026-02-27 05:00",
+        "end_time": "2026-02-27 05:30"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Værtshushistorier: Rosengårdens Bodega",
+        "start_time": "2026-02-27 05:35",
+        "end_time": "2026-02-27 06:05"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Rejseholdet (6:12) - Fabriksbranden",
+        "start_time": "2026-02-27 06:05",
+        "end_time": "2026-02-27 07:00"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Radioavisen",
+        "start_time": "2026-02-27 07:00",
+        "end_time": "2026-02-27 07:05"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Morgenandagten",
+        "start_time": "2026-02-27 07:05",
+        "end_time": "2026-02-27 07:30"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Seneste nyt fra TVA",
+        "start_time": "2026-02-27 07:30",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Seneste nyt fra TVA",
+        "start_time": "2026-02-27 11:00",
+        "end_time": "2026-02-27 15:50"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Filmmusik af John Williams",
+        "start_time": "2026-02-27 15:50",
+        "end_time": "2026-02-27 16:20"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Kvissen (6:17)",
+        "start_time": "2026-02-27 16:20",
+        "end_time": "2026-02-27 17:00"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Kvissen (7:17)",
+        "start_time": "2026-02-27 17:00",
+        "end_time": "2026-02-27 17:35"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Huset på Christianshavn (6) Om at skyde papegøjen",
+        "start_time": "2026-02-27 17:35",
+        "end_time": "2026-02-27 18:00"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Huset på Christianshavn (7) Kødets lyst og trøst",
+        "start_time": "2026-02-27 18:00",
+        "end_time": "2026-02-27 18:25"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Kvissen (8:17)",
+        "start_time": "2026-02-27 18:20",
+        "end_time": "2026-02-27 19:00"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Golda",
+        "start_time": "2026-02-27 19:00",
+        "end_time": "2026-02-27 20:35"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Alt forladt - Civilbunkeren Regan Vest",
+        "start_time": "2026-02-27 20:35",
+        "end_time": "2026-02-27 21:00"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "TVA",
+        "start_time": "2026-02-27 21:00",
+        "end_time": "2026-02-27 21:20"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Debatten",
+        "start_time": "2026-02-27 21:15",
+        "end_time": "2026-02-27 22:05"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "The Card Counter",
+        "start_time": "2026-02-27 22:05",
+        "end_time": "2026-02-27 23:55"
+      },
+      {
+        "channel_name": "DR2",
+        "title": "Belfast",
+        "start_time": "2026-02-27 23:55",
+        "end_time": "2026-02-28 01:30"
+      }
+    ],
+    "DR3": [
+      {
+        "channel_name": "DR3",
+        "title": "Ramasjang sover",
+        "start_time": "2026-02-26 21:50",
+        "end_time": "2026-02-27 00:40"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Ramasjang sover",
+        "start_time": "2026-02-27 00:40",
+        "end_time": "2026-02-27 03:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Ramasjang sover - lidt endnu",
+        "start_time": "2026-02-27 03:55",
+        "end_time": "2026-02-27 04:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Rosa fra Rouladegade II (11)",
+        "start_time": "2026-02-27 04:00",
+        "end_time": "2026-02-27 04:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Hunden Ib III",
+        "start_time": "2026-02-27 04:30",
+        "end_time": "2026-02-27 04:35"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Sultne bjørne",
+        "start_time": "2026-02-27 04:35",
+        "end_time": "2026-02-27 04:45"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Pip og Poppy II",
+        "start_time": "2026-02-27 04:45",
+        "end_time": "2026-02-27 04:50"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Bamselægen - Teddy er gravid (1)",
+        "start_time": "2026-02-27 04:50",
+        "end_time": "2026-02-27 05:10"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Hey Duggee",
+        "start_time": "2026-02-27 05:10",
+        "end_time": "2026-02-27 05:15"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Vida - dyrenes doktor",
+        "start_time": "2026-02-27 05:15",
+        "end_time": "2026-02-27 05:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Motor Mille på maskintur (5)",
+        "start_time": "2026-02-27 05:30",
+        "end_time": "2026-02-27 05:45"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Sarah og And (4)",
+        "start_time": "2026-02-27 05:45",
+        "end_time": "2026-02-27 05:50"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "F for får V (3)",
+        "start_time": "2026-02-27 05:50",
+        "end_time": "2026-02-27 06:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Gurli Gris X",
+        "start_time": "2026-02-27 06:00",
+        "end_time": "2026-02-27 06:05"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Gurli Gris X",
+        "start_time": "2026-02-27 06:05",
+        "end_time": "2026-02-27 06:10"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Simon",
+        "start_time": "2026-02-27 06:10",
+        "end_time": "2026-02-27 06:15"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Simon",
+        "start_time": "2026-02-27 06:15",
+        "end_time": "2026-02-27 06:20"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Bluey",
+        "start_time": "2026-02-27 06:20",
+        "end_time": "2026-02-27 06:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Mission Valhalla (2)",
+        "start_time": "2026-02-27 06:30",
+        "end_time": "2026-02-27 06:45"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Maja + Trix",
+        "start_time": "2026-02-27 06:45",
+        "end_time": "2026-02-27 06:50"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Leg med Dylan",
+        "start_time": "2026-02-27 06:50",
+        "end_time": "2026-02-27 07:05"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "John Dillermand (10)",
+        "start_time": "2026-02-27 07:05",
+        "end_time": "2026-02-27 07:10"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Superhelten Sprinter Galore (21)",
+        "start_time": "2026-02-27 07:10",
+        "end_time": "2026-02-27 07:15"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Oda Omvendt (4)",
+        "start_time": "2026-02-27 07:15",
+        "end_time": "2026-02-27 07:25"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Paddington III",
+        "start_time": "2026-02-27 07:25",
+        "end_time": "2026-02-27 07:40"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Galaktiske Ella",
+        "start_time": "2026-02-27 07:40",
+        "end_time": "2026-02-27 07:50"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Dino-ranchen II",
+        "start_time": "2026-02-27 07:50",
+        "end_time": "2026-02-27 08:05"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Gigantosaurus II",
+        "start_time": "2026-02-27 08:05",
+        "end_time": "2026-02-27 08:15"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Vilde Kræ VI",
+        "start_time": "2026-02-27 08:15",
+        "end_time": "2026-02-27 08:35"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Jonahs dyreverden",
+        "start_time": "2026-02-27 08:35",
+        "end_time": "2026-02-27 08:45"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Odderen Svenn",
+        "start_time": "2026-02-27 08:45",
+        "end_time": "2026-02-27 08:55"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Lille Nørd",
+        "start_time": "2026-02-27 08:55",
+        "end_time": "2026-02-27 09:20"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Vidundervovsen Vaffel (35)",
+        "start_time": "2026-02-27 09:20",
+        "end_time": "2026-02-27 09:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Dyrepasser Pihl",
+        "start_time": "2026-02-27 09:30",
+        "end_time": "2026-02-27 09:35"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Hvem lagde lorten?",
+        "start_time": "2026-02-27 09:35",
+        "end_time": "2026-02-27 09:45"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Onkel Rejes Sørøvershow (4)",
+        "start_time": "2026-02-27 09:45",
+        "end_time": "2026-02-27 10:05"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Skæg med bogstaver - P",
+        "start_time": "2026-02-27 10:05",
+        "end_time": "2026-02-27 10:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Byttebiksen (1)",
+        "start_time": "2026-02-27 10:30",
+        "end_time": "2026-02-27 10:40"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Leg med Dylan",
+        "start_time": "2026-02-27 10:40",
+        "end_time": "2026-02-27 10:55"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Zig og Sharko IV",
+        "start_time": "2026-02-27 10:55",
+        "end_time": "2026-02-27 11:05"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Mini-Agenterne",
+        "start_time": "2026-02-27 11:05",
+        "end_time": "2026-02-27 11:20"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Sprinter Galore (4)",
+        "start_time": "2026-02-27 11:20",
+        "end_time": "2026-02-27 11:35"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Sprinter Galore (5)",
+        "start_time": "2026-02-27 11:35",
+        "end_time": "2026-02-27 11:50"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Karlas Fantalastiske Klasse - Spøgelset",
+        "start_time": "2026-02-27 11:50",
+        "end_time": "2026-02-27 11:55"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Karlas Fantalastiske Klasse - Nej-hatten",
+        "start_time": "2026-02-27 11:55",
+        "end_time": "2026-02-27 12:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "F for Får IV (2)",
+        "start_time": "2026-02-27 12:00",
+        "end_time": "2026-02-27 12:10"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Zorro (19)",
+        "start_time": "2026-02-27 12:10",
+        "end_time": "2026-02-27 12:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Tintin: Kong Ottokars scepter (1:2)",
+        "start_time": "2026-02-27 12:30",
+        "end_time": "2026-02-27 12:55"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Hvor er Kylling?",
+        "start_time": "2026-02-27 12:55",
+        "end_time": "2026-02-27 12:55"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Hvor er Kylling?",
+        "start_time": "2026-02-27 12:55",
+        "end_time": "2026-02-27 12:56"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Dragerytterne: Skrillen i skudlinjen - del 2 (31)",
+        "start_time": "2026-02-27 12:56",
+        "end_time": "2026-02-27 13:20"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Mesterlige monsterbørn",
+        "start_time": "2026-02-27 13:20",
+        "end_time": "2026-02-27 13:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Fluernes Herman",
+        "start_time": "2026-02-27 13:30",
+        "end_time": "2026-02-27 13:45"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Æblerup (17:20) Koglernes campingtur",
+        "start_time": "2026-02-27 13:50",
+        "end_time": "2026-02-27 13:51"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Peter Pedal",
+        "start_time": "2026-02-27 13:51",
+        "end_time": "2026-02-27 14:10"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Garfield",
+        "start_time": "2026-02-27 14:10",
+        "end_time": "2026-02-27 14:25"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Vestens vildeste hamster",
+        "start_time": "2026-02-27 14:25",
+        "end_time": "2026-02-27 14:35"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Gurli Gris V",
+        "start_time": "2026-02-27 14:35",
+        "end_time": "2026-02-27 14:45"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Gurli Gris V",
+        "start_time": "2026-02-27 14:45",
+        "end_time": "2026-02-27 14:46"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Simon III",
+        "start_time": "2026-02-27 14:46",
+        "end_time": "2026-02-27 14:50"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Simon Superkanin II",
+        "start_time": "2026-02-27 14:50",
+        "end_time": "2026-02-27 15:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Mageløse Mille",
+        "start_time": "2026-02-27 15:00",
+        "end_time": "2026-02-27 15:10"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Mojo Multitop",
+        "start_time": "2026-02-27 15:10",
+        "end_time": "2026-02-27 15:20"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "De tre musketerer",
+        "start_time": "2026-02-27 15:20",
+        "end_time": "2026-02-27 15:35"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Paw Patrol X",
+        "start_time": "2026-02-27 15:35",
+        "end_time": "2026-02-27 15:55"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Tegnetrix: Tegnetrix: En tissende hund!",
+        "start_time": "2026-02-27 15:55",
+        "end_time": "2026-02-27 16:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Valdras Helte (2:7) Den sovende kæmpe",
+        "start_time": "2026-02-27 16:00",
+        "end_time": "2026-02-27 16:25"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Drama forever",
+        "start_time": "2026-02-27 16:25",
+        "end_time": "2026-02-27 16:30"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Drama forever",
+        "start_time": "2026-02-27 16:30",
+        "end_time": "2026-02-27 16:40"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Den magiske klub - Julemanden",
+        "start_time": "2026-02-27 16:40",
+        "end_time": "2026-02-27 16:55"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Jagten på regnbuens farver | Faret vild i ørkenen",
+        "start_time": "2026-02-27 16:55",
+        "end_time": "2026-02-27 17:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "F for får V (5)",
+        "start_time": "2026-02-27 17:00",
+        "end_time": "2026-02-27 17:10"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Pyjamasheltene V",
+        "start_time": "2026-02-27 17:10",
+        "end_time": "2026-02-27 17:25"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Petronix",
+        "start_time": "2026-02-27 17:25",
+        "end_time": "2026-02-27 17:40"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Totally Spies",
+        "start_time": "2026-02-27 17:40",
+        "end_time": "2026-02-27 18:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "FredagsTamTam",
+        "start_time": "2026-02-27 18:00",
+        "end_time": "2026-02-27 19:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Asterix og De Olympiske Lege",
+        "start_time": "2026-02-27 19:00",
+        "end_time": "2026-02-27 21:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Godnat - nu går vi i seng",
+        "start_time": "2026-02-27 21:00",
+        "end_time": "2026-02-27 21:15"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Ramasjang sover",
+        "start_time": "2026-02-27 21:15",
+        "end_time": "2026-02-28 00:00"
+      },
+      {
+        "channel_name": "DR3",
+        "title": "Ramasjang sover",
+        "start_time": "2026-02-28 00:00",
+        "end_time": "2026-02-28 02:50"
+      }
+    ],
+    "DR Ramasjang": [
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Kommissær Rex",
+        "start_time": "2026-02-26 23:40",
+        "end_time": "2026-02-27 00:25"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Kommissær Rex",
+        "start_time": "2026-02-27 00:25",
+        "end_time": "2026-02-27 01:15"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Fornyet mistanke",
+        "start_time": "2026-02-27 01:15",
+        "end_time": "2026-02-27 02:10"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Fornyet mistanke",
+        "start_time": "2026-02-27 02:10",
+        "end_time": "2026-02-27 03:00"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Hos Hans",
+        "start_time": "2026-02-27 03:00",
+        "end_time": "2026-02-27 03:45"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Hos Hans",
+        "start_time": "2026-02-27 03:45",
+        "end_time": "2026-02-27 04:25"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Hos Hans",
+        "start_time": "2026-02-27 04:25",
+        "end_time": "2026-02-27 05:05"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Godnat",
+        "start_time": "2026-02-27 05:05",
+        "end_time": "2026-02-27 05:40"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Skadestuen i Holby",
+        "start_time": "2026-02-27 05:40",
+        "end_time": "2026-02-27 06:35"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Skadestuen i Holby",
+        "start_time": "2026-02-27 06:35",
+        "end_time": "2026-02-27 07:30"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Luftens læger",
+        "start_time": "2026-02-27 07:30",
+        "end_time": "2026-02-27 08:20"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Luftens læger",
+        "start_time": "2026-02-27 08:20",
+        "end_time": "2026-02-27 09:10"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Mord i Alperne",
+        "start_time": "2026-02-27 09:10",
+        "end_time": "2026-02-27 10:05"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Mord i Alperne",
+        "start_time": "2026-02-27 10:05",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Bjerglægen",
+        "start_time": "2026-02-27 11:00",
+        "end_time": "2026-02-27 11:50"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Bjerglægen",
+        "start_time": "2026-02-27 11:50",
+        "end_time": "2026-02-27 12:40"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Bjergets helte",
+        "start_time": "2026-02-27 12:40",
+        "end_time": "2026-02-27 13:30"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Bjergets helte",
+        "start_time": "2026-02-27 13:30",
+        "end_time": "2026-02-27 14:20"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Kommissær Rex",
+        "start_time": "2026-02-27 14:20",
+        "end_time": "2026-02-27 15:10"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Kommissær Rex",
+        "start_time": "2026-02-27 15:10",
+        "end_time": "2026-02-27 16:05"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Døden i paradis",
+        "start_time": "2026-02-27 16:05",
+        "end_time": "2026-02-27 17:10"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Døden i paradis",
+        "start_time": "2026-02-27 17:10",
+        "end_time": "2026-02-27 18:10"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Hudson og Rex",
+        "start_time": "2026-02-27 18:10",
+        "end_time": "2026-02-27 19:05"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Inspector Morse",
+        "start_time": "2026-02-27 19:05",
+        "end_time": "2026-02-27 21:00"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Kriminalkommissær Barnaby",
+        "start_time": "2026-02-27 21:00",
+        "end_time": "2026-02-27 22:35"
+      },
+      {
+        "channel_name": "DR Ramasjang",
+        "title": "Mord ved søen",
+        "start_time": "2026-02-27 22:35",
+        "end_time": "2026-02-28 00:10"
+      }
+    ],
+    "DR Ultra": [
+      {
+        "channel_name": "DR Ultra",
+        "title": "NCIS",
+        "start_time": "2026-02-26 23:15",
+        "end_time": "2026-02-27 00:10"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Based On a True Story",
+        "start_time": "2026-02-27 00:10",
+        "end_time": "2026-02-27 00:40"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Based On a True Story",
+        "start_time": "2026-02-27 00:40",
+        "end_time": "2026-02-27 01:10"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Gossip Girl",
+        "start_time": "2026-02-27 01:10",
+        "end_time": "2026-02-27 02:05"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Gossip Girl",
+        "start_time": "2026-02-27 02:05",
+        "end_time": "2026-02-27 03:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "House of Ali",
+        "start_time": "2026-02-27 03:00",
+        "end_time": "2026-02-27 04:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "House of Ali",
+        "start_time": "2026-02-27 04:00",
+        "end_time": "2026-02-27 05:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "House of Ali",
+        "start_time": "2026-02-27 05:00",
+        "end_time": "2026-02-27 05:50"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Ramsay's Kitchen Nightmares USA",
+        "start_time": "2026-02-27 05:50",
+        "end_time": "2026-02-27 06:45"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Ramsay's Kitchen Nightmares USA",
+        "start_time": "2026-02-27 06:45",
+        "end_time": "2026-02-27 07:35"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Luksusfælden",
+        "start_time": "2026-02-27 07:35",
+        "end_time": "2026-02-27 08:35"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Luksusfælden",
+        "start_time": "2026-02-27 08:35",
+        "end_time": "2026-02-27 09:45"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Familien fra Bryggen",
+        "start_time": "2026-02-27 09:45",
+        "end_time": "2026-02-27 10:50"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Familien fra Bryggen",
+        "start_time": "2026-02-27 10:50",
+        "end_time": "2026-02-27 11:50"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Forsidefruer",
+        "start_time": "2026-02-27 11:50",
+        "end_time": "2026-02-27 12:55"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Forsidefruer",
+        "start_time": "2026-02-27 12:55",
+        "end_time": "2026-02-27 14:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Mit plastikmareridt",
+        "start_time": "2026-02-27 14:00",
+        "end_time": "2026-02-27 14:55"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Luksusfælden",
+        "start_time": "2026-02-27 14:55",
+        "end_time": "2026-02-27 16:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Luksusfælden",
+        "start_time": "2026-02-27 16:00",
+        "end_time": "2026-02-27 17:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Masterchef",
+        "start_time": "2026-02-27 17:00",
+        "end_time": "2026-02-27 18:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Destination Wedding",
+        "start_time": "2026-02-27 18:00",
+        "end_time": "2026-02-27 20:00"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "War of the Worlds",
+        "start_time": "2026-02-27 20:00",
+        "end_time": "2026-02-27 22:25"
+      },
+      {
+        "channel_name": "DR Ultra",
+        "title": "Security",
+        "start_time": "2026-02-27 22:25",
+        "end_time": "2026-02-28 00:20"
+      }
+    ],
+    "DR K": [
+      {
+        "channel_name": "DR K",
+        "title": "Nyheder, sport, vejr",
+        "start_time": "2026-02-26 22:00",
+        "end_time": "2026-02-27 05:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "Morgennyhederne på NEWS",
+        "start_time": "2026-02-27 05:00",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "12 News",
+        "start_time": "2026-02-27 11:00",
+        "end_time": "2026-02-27 12:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "Nyheder, sport, vejr",
+        "start_time": "2026-02-27 12:00",
+        "end_time": "2026-02-27 15:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "NEWS & Co.",
+        "start_time": "2026-02-27 15:00",
+        "end_time": "2026-02-27 17:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "18 News",
+        "start_time": "2026-02-27 17:00",
+        "end_time": "2026-02-27 17:20"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "News nyhederne",
+        "start_time": "2026-02-27 17:20",
+        "end_time": "2026-02-27 18:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "19 News",
+        "start_time": "2026-02-27 18:00",
+        "end_time": "2026-02-27 18:20"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "Besserwisserne",
+        "start_time": "2026-02-27 18:20",
+        "end_time": "2026-02-27 19:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "Nyheder, sport, vejr",
+        "start_time": "2026-02-27 19:00",
+        "end_time": "2026-02-27 20:30"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "Besserwisserne",
+        "start_time": "2026-02-27 20:30",
+        "end_time": "2026-02-27 21:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "22News",
+        "start_time": "2026-02-27 21:00",
+        "end_time": "2026-02-27 22:00"
+      },
+      {
+        "channel_name": "DR K",
+        "title": "Nyheder, sport, vejr",
+        "start_time": "2026-02-27 22:00",
+        "end_time": "2026-02-28 06:00"
+      }
+    ],
+    "DR Nyheder": [
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Clarksons farm",
+        "start_time": "2026-02-26 23:40",
+        "end_time": "2026-02-27 00:40"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "24 timer på skadestuen",
+        "start_time": "2026-02-27 00:40",
+        "end_time": "2026-02-27 01:35"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Alarmcentralen",
+        "start_time": "2026-02-27 01:35",
+        "end_time": "2026-02-27 03:00"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Nyhederne og Vejret",
+        "start_time": "2026-02-27 03:00",
+        "end_time": "2026-02-27 05:00"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Nyhederne, Sporten og Vejret",
+        "start_time": "2026-02-27 05:00",
+        "end_time": "2026-02-27 05:30"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Go' morgen Danmark",
+        "start_time": "2026-02-27 05:30",
+        "end_time": "2026-02-27 09:30"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Nyhederne",
+        "start_time": "2026-02-27 09:30",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "12 News",
+        "start_time": "2026-02-27 11:00",
+        "end_time": "2026-02-27 11:35"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Beliggenhed, beliggenhed, beliggenhed",
+        "start_time": "2026-02-27 11:35",
+        "end_time": "2026-02-27 12:25"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Vandkant til salg",
+        "start_time": "2026-02-27 12:25",
+        "end_time": "2026-02-27 13:05"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Vandkant til salg",
+        "start_time": "2026-02-27 13:05",
+        "end_time": "2026-02-27 13:45"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Vi drukner i rod",
+        "start_time": "2026-02-27 13:45",
+        "end_time": "2026-02-27 14:30"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "De sjældne danskere",
+        "start_time": "2026-02-27 14:30",
+        "end_time": "2026-02-27 15:10"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Megafamilie - far, mor og 16 børn",
+        "start_time": "2026-02-27 15:10",
+        "end_time": "2026-02-27 16:00"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "17 News",
+        "start_time": "2026-02-27 16:00",
+        "end_time": "2026-02-27 16:10"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Regionale nyheder",
+        "start_time": "2026-02-27 16:10",
+        "end_time": "2026-02-27 16:20"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Go' aften Live",
+        "start_time": "2026-02-27 16:20",
+        "end_time": "2026-02-27 17:00"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "18 News",
+        "start_time": "2026-02-27 17:00",
+        "end_time": "2026-02-27 17:20"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Regionale nyheder",
+        "start_time": "2026-02-27 17:20",
+        "end_time": "2026-02-27 17:25"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Go' aften Live",
+        "start_time": "2026-02-27 17:25",
+        "end_time": "2026-02-27 18:00"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "19 News",
+        "start_time": "2026-02-27 18:00",
+        "end_time": "2026-02-27 18:30"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Regionalprogram",
+        "start_time": "2026-02-27 18:30",
+        "end_time": "2026-02-27 19:00"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "X Factor",
+        "start_time": "2026-02-27 19:00",
+        "end_time": "2026-02-27 20:25"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Nyhederne",
+        "start_time": "2026-02-27 20:25",
+        "end_time": "2026-02-27 20:40"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "X Factor",
+        "start_time": "2026-02-27 20:40",
+        "end_time": "2026-02-27 21:20"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Three billboards outside Ebbing, Missouri",
+        "start_time": "2026-02-27 21:20",
+        "end_time": "2026-02-27 23:20"
+      },
+      {
+        "channel_name": "DR Nyheder",
+        "title": "Britain's Got Talent",
+        "start_time": "2026-02-27 23:20",
+        "end_time": "2026-02-28 01:00"
+      }
+    ],
+    "DR Ramaskrig": [
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-26 23:45",
+        "end_time": "2026-02-27 00:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 00:00",
+        "end_time": "2026-02-27 00:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 00:15",
+        "end_time": "2026-02-27 00:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 00:30",
+        "end_time": "2026-02-27 00:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 00:45",
+        "end_time": "2026-02-27 01:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 01:00",
+        "end_time": "2026-02-27 01:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 01:15",
+        "end_time": "2026-02-27 01:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 01:30",
+        "end_time": "2026-02-27 01:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 01:45",
+        "end_time": "2026-02-27 02:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 02:00",
+        "end_time": "2026-02-27 02:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 02:15",
+        "end_time": "2026-02-27 02:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 02:30",
+        "end_time": "2026-02-27 02:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 02:45",
+        "end_time": "2026-02-27 03:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 03:00",
+        "end_time": "2026-02-27 03:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 03:15",
+        "end_time": "2026-02-27 03:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 03:30",
+        "end_time": "2026-02-27 03:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 03:45",
+        "end_time": "2026-02-27 04:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 04:00",
+        "end_time": "2026-02-27 04:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 04:15",
+        "end_time": "2026-02-27 04:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 04:30",
+        "end_time": "2026-02-27 04:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 04:45",
+        "end_time": "2026-02-27 05:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 05:00",
+        "end_time": "2026-02-27 05:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 05:15",
+        "end_time": "2026-02-27 05:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 05:30",
+        "end_time": "2026-02-27 05:50"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 06:00",
+        "end_time": "2026-02-27 06:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 06:15",
+        "end_time": "2026-02-27 06:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 06:30",
+        "end_time": "2026-02-27 06:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 06:45",
+        "end_time": "2026-02-27 07:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 07:00",
+        "end_time": "2026-02-27 07:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 07:15",
+        "end_time": "2026-02-27 07:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 07:30",
+        "end_time": "2026-02-27 07:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 07:45",
+        "end_time": "2026-02-27 08:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 08:00",
+        "end_time": "2026-02-27 08:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 08:15",
+        "end_time": "2026-02-27 08:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 08:30",
+        "end_time": "2026-02-27 08:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 08:45",
+        "end_time": "2026-02-27 09:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 09:00",
+        "end_time": "2026-02-27 09:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 09:15",
+        "end_time": "2026-02-27 09:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 09:30",
+        "end_time": "2026-02-27 09:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 09:45",
+        "end_time": "2026-02-27 10:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 10:00",
+        "end_time": "2026-02-27 10:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 10:15",
+        "end_time": "2026-02-27 10:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 10:30",
+        "end_time": "2026-02-27 10:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 10:45",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 10:50",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 11:00",
+        "end_time": "2026-02-27 11:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 11:15",
+        "end_time": "2026-02-27 11:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 11:30",
+        "end_time": "2026-02-27 11:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 11:45",
+        "end_time": "2026-02-27 12:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 12:00",
+        "end_time": "2026-02-27 12:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 12:15",
+        "end_time": "2026-02-27 12:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 12:30",
+        "end_time": "2026-02-27 12:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 12:45",
+        "end_time": "2026-02-27 13:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 13:00",
+        "end_time": "2026-02-27 13:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 13:15",
+        "end_time": "2026-02-27 13:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 13:30",
+        "end_time": "2026-02-27 13:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 13:45",
+        "end_time": "2026-02-27 14:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 14:00",
+        "end_time": "2026-02-27 14:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 14:15",
+        "end_time": "2026-02-27 14:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 14:30",
+        "end_time": "2026-02-27 14:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 14:45",
+        "end_time": "2026-02-27 15:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 15:00",
+        "end_time": "2026-02-27 15:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 15:15",
+        "end_time": "2026-02-27 15:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 15:30",
+        "end_time": "2026-02-27 15:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 15:45",
+        "end_time": "2026-02-27 16:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 16:00",
+        "end_time": "2026-02-27 16:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 16:15",
+        "end_time": "2026-02-27 16:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 16:30",
+        "end_time": "2026-02-27 16:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 16:45",
+        "end_time": "2026-02-27 17:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 17:00",
+        "end_time": "2026-02-27 17:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 17:15",
+        "end_time": "2026-02-27 17:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 17:30",
+        "end_time": "2026-02-27 17:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 17:45",
+        "end_time": "2026-02-27 18:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 18:00",
+        "end_time": "2026-02-27 18:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 18:15",
+        "end_time": "2026-02-27 18:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 18:30",
+        "end_time": "2026-02-27 18:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 18:45",
+        "end_time": "2026-02-27 19:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 19:00",
+        "end_time": "2026-02-27 19:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 19:15",
+        "end_time": "2026-02-27 19:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 19:30",
+        "end_time": "2026-02-27 19:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 19:45",
+        "end_time": "2026-02-27 20:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 20:00",
+        "end_time": "2026-02-27 20:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 20:15",
+        "end_time": "2026-02-27 20:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 20:30",
+        "end_time": "2026-02-27 20:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 20:45",
+        "end_time": "2026-02-27 21:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 21:00",
+        "end_time": "2026-02-27 21:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 21:15",
+        "end_time": "2026-02-27 21:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 21:30",
+        "end_time": "2026-02-27 21:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 21:45",
+        "end_time": "2026-02-27 22:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 22:00",
+        "end_time": "2026-02-27 22:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 22:15",
+        "end_time": "2026-02-27 22:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 22:30",
+        "end_time": "2026-02-27 22:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 22:45",
+        "end_time": "2026-02-27 23:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 23:00",
+        "end_time": "2026-02-27 23:15"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 23:15",
+        "end_time": "2026-02-27 23:30"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 23:30",
+        "end_time": "2026-02-27 23:45"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-27 23:45",
+        "end_time": "2026-02-28 00:00"
+      },
+      {
+        "channel_name": "DR Ramaskrig",
+        "title": "TVA",
+        "start_time": "2026-02-28 00:00",
+        "end_time": "2026-02-28 00:15"
+      }
+    ],
+    "DR1 HD": [
+      {
+        "channel_name": "DR1 HD",
+        "title": "Snitch",
+        "start_time": "2026-02-26 22:15",
+        "end_time": "2026-02-27 00:30"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Alert: Missing Persons Unit",
+        "start_time": "2026-02-27 00:30",
+        "end_time": "2026-02-27 01:30"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Partisan",
+        "start_time": "2026-02-27 01:30",
+        "end_time": "2026-02-27 02:35"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Partisan",
+        "start_time": "2026-02-27 02:35",
+        "end_time": "2026-02-27 03:40"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Dropping In",
+        "start_time": "2026-02-27 03:40",
+        "end_time": "2026-02-27 04:05"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Dropping In",
+        "start_time": "2026-02-27 04:05",
+        "end_time": "2026-02-27 04:30"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Kevin Can Wait",
+        "start_time": "2026-02-27 04:30",
+        "end_time": "2026-02-27 05:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Kevin Can Wait",
+        "start_time": "2026-02-27 05:00",
+        "end_time": "2026-02-27 05:30"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Pacific Blue",
+        "start_time": "2026-02-27 05:30",
+        "end_time": "2026-02-27 06:20"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Pacific Blue",
+        "start_time": "2026-02-27 06:20",
+        "end_time": "2026-02-27 07:15"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "S.W.A.T.",
+        "start_time": "2026-02-27 07:15",
+        "end_time": "2026-02-27 08:05"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "S.W.A.T.",
+        "start_time": "2026-02-27 08:05",
+        "end_time": "2026-02-27 09:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Forsvundet sporløst",
+        "start_time": "2026-02-27 09:00",
+        "end_time": "2026-02-27 10:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Forsvundet sporløst",
+        "start_time": "2026-02-27 10:00",
+        "end_time": "2026-02-27 11:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Hawaii Five-0",
+        "start_time": "2026-02-27 11:00",
+        "end_time": "2026-02-27 12:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Hawaii Five-0",
+        "start_time": "2026-02-27 12:00",
+        "end_time": "2026-02-27 13:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "NCIS: Los Angeles",
+        "start_time": "2026-02-27 13:00",
+        "end_time": "2026-02-27 14:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "NCIS: Los Angeles",
+        "start_time": "2026-02-27 14:00",
+        "end_time": "2026-02-27 15:05"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Forsvundet sporløst",
+        "start_time": "2026-02-27 15:05",
+        "end_time": "2026-02-27 16:05"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Forsvundet sporløst",
+        "start_time": "2026-02-27 16:05",
+        "end_time": "2026-02-27 17:10"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "NCIS",
+        "start_time": "2026-02-27 17:10",
+        "end_time": "2026-02-27 18:05"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "NCIS",
+        "start_time": "2026-02-27 18:05",
+        "end_time": "2026-02-27 19:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Alert: Missing Persons Unit",
+        "start_time": "2026-02-27 19:00",
+        "end_time": "2026-02-27 20:00"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Venom: Let There Be Carnage",
+        "start_time": "2026-02-27 20:00",
+        "end_time": "2026-02-27 22:15"
+      },
+      {
+        "channel_name": "DR1 HD",
+        "title": "Venom",
+        "start_time": "2026-02-27 22:15",
+        "end_time": "2026-02-28 00:20"
+      }
+    ]
+  }
+}

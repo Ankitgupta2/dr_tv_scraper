@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'date'
+
+date = ARGV[0] ? Date.parse(ARGV[0]) : Date.today
+
+# Call your scraper file
+exec "ruby dr_tv_scraper.rb #{date}"
+
+# usage bin/run 2026-02-27 or bin/run to use today's date
